@@ -3,8 +3,9 @@
 **Jonathan Conning**
 Hunter College, City University of New York
 
-The notebooks in this library can be freely used and reproduced. See the copyright and
-license notice below.
+The jupyter notebooks and other materials hosted here are for the above listed economics course.  These materials are hosted both at the [eco701micro](https://github.com/jhconning/eco701micro) github repository and at the [701micro](https://notebooks.azure.com/jhconning/libraries/701micro) Microsoft Azure notebooks library.  You should be able to run the notebooks interactively at the latter library, as described below.
+
+The content can be freely used and reproduced. See the copyright and license notice below.
 
 #### Getting started
 
