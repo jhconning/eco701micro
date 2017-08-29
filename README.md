@@ -4,8 +4,7 @@
 Hunter College, City University of New York
 
 #### [Syllabus](https://drive.google.com/file/d/0B_Z0VAlMmIEpM19fMXd5cExxYjQ/view?usp=sharing)
-#### Slides
-During the transition to jupyter notebooks (explained below) old powerpoint slides are posted [here](https://drive.google.com/open?id=0B_Z0VAlMmIEpWXNkUmY1QW5FQjA)
+#### [Lecture Slides](https://drive.google.com/open?id=0B_Z0VAlMmIEpNjFWTTNSd1BIb2s)
 
 The jupyter notebooks and other materials hosted here support this economics course.  These materials are hosted at both the [eco701micro](https://github.com/jhconning/eco701micro) github repository and at the [701micro](https://notebooks.azure.com/jhconning/libraries/701micro) Microsoft Azure notebooks library.  The Azure notebooks server allows you to run notebooks interactively without installing any software on your own machine.
 
