@@ -4,7 +4,7 @@
 Hunter College, City University of New York
 
 #### [Syllabus](https://drive.google.com/open?id=1pB7CqETsu6uKnU35qkdpJpoXGfc3NR3w)
-#### [Lecture Slides](https://drive.google.com/open?id=1HRPb-pVxRbWRDWTqItZ3fXfQYOIP5Eod)
+#### [Lecture Slides](https://drive.google.com/file/d/1HRPb-pVxRbWRDWTqItZ3fXfQYOIP5Eod/view)
 
 This repository  of  jupyter notebooks and other materials is hosted both at the [eco701micro](https://github.com/jhconning/eco701micro) github repository and is cloned to the [701micro](https://notebooks.azure.com/jhconning/libraries/701micro) Microsoft Azure notebooks library.  The Azure notebooks server allows you to run notebooks interactively without installing any software on your own machine.
 
