@@ -6,9 +6,11 @@ Hunter College, City University of New York
 #### [Syllabus](https://drive.google.com/file/d/0B_Z0VAlMmIEpM19fMXd5cExxYjQ/view?usp=sharing)
 #### [Lecture Slides](https://drive.google.com/open?id=0B_Z0VAlMmIEpNjFWTTNSd1BIb2s)
 
-The jupyter notebooks and other materials hosted here support this economics course.  These materials are hosted at both the [eco701micro](https://github.com/jhconning/eco701micro) github repository and at the [701micro](https://notebooks.azure.com/jhconning/libraries/701micro) Microsoft Azure notebooks library.  The Azure notebooks server allows you to run notebooks interactively without installing any software on your own machine.
+This repository  of  jupyter notebooks and other materials is hosted both at the [eco701micro](https://github.com/jhconning/eco701micro) github repository and is cloned to the [701micro](https://notebooks.azure.com/jhconning/libraries/701micro) Microsoft Azure notebooks library.  The Azure notebooks server allows you to run notebooks interactively without installing any software on your own machine.
 
-The content can be freely used and reproduced. See the copyright and license notice below.
+Content is pretty bare bones for now should grow as the semester proceeds.
+
+The content can be freely used and reproduced as per the copyright and license notice below.
 
 #### Getting started
 
@@ -19,8 +21,7 @@ Some notebooks can be put in slideshow mode by pressing Alt-R or clicking the 'E
 
 #### Comments, suggestions and corrections
 
-A repository of the notebooks is also maintained at [https://github.com/jhconning/eco701micro](https://github.com/jhconning/eco701micro).
-Please report any errors or suggestions as [an issue](https://github.com/jhconning/eco701micro/issues)
+Please report any errors or suggestions as [an issue  ](https://github.com/jhconning/eco701micro/issues) to the github repo.
 
 **Author**
 
@@ -42,3 +43,4 @@ The MIT License (MIT) Copyright (c) 2017
 Jonathan Conning [jconning@hunter.cuny.edu](jconning@hunter.cuny.edu)
 
 See [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
