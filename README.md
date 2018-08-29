@@ -1,4 +1,4 @@
-## Eco 701: Microeconomic Theory, Fall 2017
+## Eco 701: Microeconomic Theory, Fall 2018
 
 **Jonathan Conning**
 Hunter College, City University of New York
@@ -43,4 +43,3 @@ The MIT License (MIT) Copyright (c) 2017
 Jonathan Conning [jconning@hunter.cuny.edu](jconning@hunter.cuny.edu)
 
 See [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
-
