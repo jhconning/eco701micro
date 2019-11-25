@@ -6,18 +6,9 @@ Hunter College, City University of New York
 #### [Syllabus](https://drive.google.com/open?id=1pB7CqETsu6uKnU35qkdpJpoXGfc3NR3w)
 #### [Lecture Slides](https://drive.google.com/file/d/1HRPb-pVxRbWRDWTqItZ3fXfQYOIP5Eod/view)
 
-This repository  of  jupyter notebooks and other materials is hosted both at the [eco701micro](https://github.com/jhconning/eco701micro) github repository and is cloned to the [701micro](https://notebooks.azure.com/jhconning/libraries/701micro) Microsoft Azure notebooks library.  The Azure notebooks server allows you to run notebooks interactively without installing any software on your own machine.
+#### [Notebooks](https://github.com/jhconning/Econ-Teach)
 
-Content is pretty bare bones for now should grow as the semester proceeds.
-
-The content can be freely used and reproduced as per the copyright and license notice below.
-
-#### Getting started
-
-Start with the notebook [00_Introduction](https://notebooks.azure.com/jhconning/libraries/701micro/html/notebooks/00_Introduction.ipynb). This link will take to a static rendering of the notebook. If you press 'Run' you have the options to run the content interactively immediately. If you were not already logged in you will be prompted to login or create a free microsoft account on [https://notebooks.azure.com](https://notebooks.azure.com).  You can also 'clone' the entire library to your own account to modify the notebooks interactively and save changes.  If you are running [jupyter on your own computer](http://jupyter.org/install.html) you should clone the repo from github.
-
-Some notebooks can be put in slideshow mode by pressing Alt-R or clicking the 'Enter/Exit Reveal slideshow' button (after installing [RISE](https://github.com/damianavila/RISE) if on own computer).  Quick static renderings can also be seen at the github site or the via nbviewer [here](https://nbviewer.jupyter.org/github/jhconning/eco701micro/tree/master/notebooks/) but be aware that some visual output built on widgets (e.g. sliders) will not be seen. 
-
+Notebooks for this course have now been moved to my Econ-Teach notebook repository, to the [micro](https://github.com/jhconning/Econ-Teach/tree/master/micro) folder.
 
 #### Comments, suggestions and corrections
 
